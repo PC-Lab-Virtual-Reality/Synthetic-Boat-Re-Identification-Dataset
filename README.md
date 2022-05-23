@@ -32,8 +32,9 @@ Synthetic-HS_dataset_gt_2021: The compressed file contains the ground truth of o
 ## The flow of designing a synthetic boat Re-ID dataset, including three main steps: 1) Synthetic scenes creation, (2) Bounding-Box generation, 3) Training data cropping.
 ![image](https://github.com/PC-Lab-Virtual-Reality/Synthetic-Boat-Re-Identification-Dataset/blob/main/Figure/fig4.jpg)
 
-## Examples of change detection results on Synthetic-HS using different models
-![image](https://github.com/PC-Lab-Virtual-Reality/A-Novel-Framework-to-Generate-Synthetic-Video-for-Change-Detection-in-Highway-Surveillance-Scenarios/blob/main/Figure/fig4.jpg)
+## Visualization results of Re-ID results on real validation sets using different models
+![image](https://github.com/PC-Lab-Virtual-Reality/Synthetic-Boat-Re-Identification-Dataset/blob/main/Figure/fig7.jpg)
+![image](https://github.com/PC-Lab-Virtual-Reality/Synthetic-Boat-Re-Identification-Dataset/blob/main/Figure/fig8.jpg)
 
 ## Citations
 All rights of the Synthetic-HS Dataset are reversed by the Peng Cheng Laboratory. It is free for academic research, and your cooperation with us is appreciated. Feel free to contact us if you have any questions.
