@@ -2,11 +2,13 @@
 
 
 ## Description
-Considering that change detection models have to deal with some challenges in highway surveillance
-scenarios, we generate various synthetic multi-challenge video sequences, 
-including Basic, Dynamic Background, Illumination Variations,  Light Switch, Foggy, Night, Thunder Storm and Noise. 
-Note: Each specific sequence is also affected by other challenges, but one challenge is dominant.
-This synthetic dataset is a photo-realistic vision laboratory that validates the performance of different methods.
+Re-identification (Re-ID) is an important application in the computer vision, which can be widely used in many
+maritime tasks, such as search, rescue and surveillance, etc. However, advanced boat Re-ID algorithms require large-scale
+Re-ID datasets for model training and testing. This project proposes a novel method to automatically collect photo-realistic
+synthetic dataset for boat Re-ID research. The synthetic dataset contains 107 boat models and various visual conditions in 36
+real backgrounds. But the synthetic datasets do not always can handle real-world problems well. Therefore, we present a transfer
+learning approach that uses both real and synthetic data to train more robust models. This synthetic dataset is a photo-realistic 
+vision laboratory that validates the performance of different methods.
 
 ## The overall framework of the proposed method
 ![image](https://github.com/PC-Lab-Virtual-Reality/A-Novel-Framework-to-Generate-Synthetic-Video-for-Change-Detection-in-Highway-Surveillance-Scenarios/blob/main/Figure/fig1.jpg)
