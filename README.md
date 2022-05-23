@@ -29,8 +29,8 @@ Synthetic-HS_dataset_gt_2021: The compressed file contains the ground truth of o
 
 [Synthetic-HS_dataset_gt_2021.rar](https://drive.google.com/file/d/1gEIApEnkggwoG6FLTbRzqGq6jgDRc6Of/view?usp=sharing)
 
-## Sample images of Synthetic-HS sequences 
-![image](https://github.com/PC-Lab-Virtual-Reality/A-Novel-Framework-to-Generate-Synthetic-Video-for-Change-Detection-in-Highway-Surveillance-Scenarios/blob/main/Figure/fig3.jpg)
+## The flow of designing a synthetic boat Re-ID dataset, including three main steps: 1) Synthetic scenes creation, (2) Bounding-Box generation, 3) Training data cropping.
+![image](https://github.com/PC-Lab-Virtual-Reality/Synthetic-Boat-Re-Identification-Dataset/blob/main/Figure/fig3.jpg)
 
 ## Examples of change detection results on Synthetic-HS using different models
 ![image](https://github.com/PC-Lab-Virtual-Reality/A-Novel-Framework-to-Generate-Synthetic-Video-for-Change-Detection-in-Highway-Surveillance-Scenarios/blob/main/Figure/fig4.jpg)
