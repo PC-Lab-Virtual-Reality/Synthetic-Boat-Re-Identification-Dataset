@@ -14,7 +14,7 @@ vision laboratory that validates the performance of different methods.
 ![image](https://github.com/PC-Lab-Virtual-Reality/Synthetic-Boat-Re-Identification-Dataset/blob/main/Figure/fig1.jpg)
 
 ## Examples of the real and synthetic dataset
-![image](https://github.com/PC-Lab-Virtual-Reality/A-Novel-Framework-to-Generate-Synthetic-Video-for-Change-Detection-in-Highway-Surveillance-Scenarios/blob/main/Figure/fig2.jpg)
+![image](https://github.com/PC-Lab-Virtual-Reality/Synthetic-Boat-Re-Identification-Dataset/blob/main/Figure/fig2.jpg)
 
 
 ## Download
