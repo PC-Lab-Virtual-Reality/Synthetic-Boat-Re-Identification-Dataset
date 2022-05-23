@@ -11,7 +11,7 @@ learning approach that uses both real and synthetic data to train more robust mo
 vision laboratory that validates the performance of different methods.
 
 ## The overall framework of the proposed method
-![image](https://github.com/PC-Lab-Virtual-Reality/Synthetic-Boat-Re-Identification-Dataset/tree/main/Figure/fig1.jpg)
+![image](https://github.com/PC-Lab-Virtual-Reality/Synthetic-Boat-Re-Identification-Dataset/blob/main/Figure/fig1.jpg)
 
 ## Examples of the real and synthetic dataset
 ![image](https://github.com/PC-Lab-Virtual-Reality/A-Novel-Framework-to-Generate-Synthetic-Video-for-Change-Detection-in-Highway-Surveillance-Scenarios/blob/main/Figure/fig2.jpg)
